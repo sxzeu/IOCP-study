@@ -1,0 +1,3 @@
+﻿  client.cpp
+C:\Users\82109\source\repos\client\client\client.cpp(63,9): warning C4101: 'len' :참조되지 않은 지역 변수입니다.
+  client.vcxproj -> C:\Users\82109\source\repos\client\Debug\client.exe
